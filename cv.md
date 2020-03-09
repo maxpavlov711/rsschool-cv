@@ -1,4 +1,4 @@
-# Maksim Pavlov
+# Max Pavlov
 
 ## Contact info:
 
