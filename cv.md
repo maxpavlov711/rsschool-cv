@@ -2,7 +2,7 @@
 
 ## Contact info:
 
-* phone number *+375 (29) 244 44 74
+* phone number +375 (29) 244 44 74
 * email max.pavlov711@gmail.com
 * LinkedIn https://www.linkedin.com/in/m-pavlov
 * GitHub https://github.com/maxpavlov711
